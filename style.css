@@ -34,15 +34,19 @@ font-weight: bold;
 
 .box1{
 
-height:auto;
+height:130px;
 
-width:60%;
+width:auto;
 
 background-color:#414143;
 	
 margin:90px;
-				
-margin-left:20%;
+
+max-width:70%;
+
+margin-left:15%;
+
+margin-top:30px;
 	
 }
 
